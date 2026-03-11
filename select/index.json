@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "StarMan!!!",
+  "base_artist": "天月-あまつき-",
+  "createdAt": "2026-03-11T04:46:32.700116Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Starman",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/01_Starman_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Starman",
+      "artist": "Culture Club feat. Dom T for Drum Promotions",
+      "has_synced": true,
+      "path": "select/02_Starman_Culture_Club_feat._Dom_T_for_Drum_Promotions.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Starman",
+      "artist": "Culture Club",
+      "has_synced": true,
+      "path": "select/03_Starman_Culture_Club.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Starman",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/04_Starman_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Starman",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/05_Starman_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Starman",
+      "artist": "Nosferatu",
+      "has_synced": false,
+      "path": "select/06_Starman_Nosferatu.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Starman",
+      "artist": "Nena",
+      "has_synced": false,
+      "path": "select/07_Starman_Nena.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stranger Into Starman",
+      "artist": "Aimee Mann",
+      "has_synced": true,
+      "path": "select/08_Stranger_Into_Starman_Aimee_Mann.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Starman - Live, Glastonbury, 2000",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/09_Starman_-_Live,_Glastonbury,_2000_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Starman - Original Single Mix, 2015 Remaster",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/10_Starman_-_Original_Single_Mix,_2015_Remaster_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Starman",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/11_Starman_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Starman - 2012 Remaster",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/12_Starman_-_2012_Remaster_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Starman (2012 Remastered Version)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/13_Starman_(2012_Remastered_Version)_David_Bowie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "StarMan!!!",
+      "artist": "天月-あまつき-",
+      "has_synced": false,
+      "path": "select/pl_01_StarMan!!!_天月-あまつき-.txt"
+    }
+  ]
+}
